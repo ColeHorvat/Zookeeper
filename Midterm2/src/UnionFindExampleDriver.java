@@ -6,11 +6,6 @@ DATE: 3/22/2020
 
 import java.util.*;
 
-
-/**
- *
- * @author John
- */
 public class UnionFindExampleDriver {
 
     /** This is your UnionFind generic class that does Union-Find
